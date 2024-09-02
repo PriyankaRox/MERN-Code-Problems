@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.Header {
+  margin: 8px auto;
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+}
